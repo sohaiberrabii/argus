@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "recorded_utc": "2026-10-18T11:45:50.085529+00:00",
+  "model_id": "unsloth/Llama-3.2-1B-Instruct",
+  "checkpoint_revision": "5a8abab4a5d6f164389b1079fb721cfab8d7126c",
+  "runner_status": "The included runner source completed this fresh baseline and sweep on a TPU VM.",
+  "trace_projection": "TPU:0 XLA Modules events and exact device timer fields, process and lane identifiers normalized, host and operation lanes omitted.",
+  "traces": [
+    {
+      "profile": "profile-prefill128",
+      "source_export_sha256": "b0a1545c2881f8dfd02011c37f5364de0ebef86985c61072eab2887c3d480f7b",
+      "public_trace": "profile-prefill128/device.trace.json.gz",
+      "module_event_count": 96
+    },
+    {
+      "profile": "profile-short",
+      "source_export_sha256": "228c0e935c46cdd51314ae2cf763aa9fdd399f3182b4d56ab0c8a8dc2186a74f",
+      "public_trace": "profile-short/device.trace.json.gz",
+      "module_event_count": 96
+    },
+    {
+      "profile": "profile-sweep-0",
+      "source_export_sha256": "1a2f8b5eec4f8cf5d21f4179af7a932a3cbef68c782c5a72f39dfaf559dd5e56",
+      "public_trace": "profile-sweep-0/device.trace.json.gz",
+      "module_event_count": 78
+    },
+    {
+      "profile": "profile-sweep-1",
+      "source_export_sha256": "a4861e77bf2cdcd84f2842ef19adb2d39bb8b5f447da2936c61ae07af59918ba",
+      "public_trace": "profile-sweep-1/device.trace.json.gz",
+      "module_event_count": 78
+    },
+    {
+      "profile": "profile-sweep-2",
+      "source_export_sha256": "c1d4cec2b3440652e513d9fafb3374d1c724f1833ac102e3564b043ecaca6b8b",
+      "public_trace": "profile-sweep-2/device.trace.json.gz",
+      "module_event_count": 78
+    },
+    {
+      "profile": "profile-sweep-3",
+      "source_export_sha256": "bfa182791c99de1b45f4dcc3b861cdf36cf8b212ecee2fa26aa8e98a27d9ec30",
+      "public_trace": "profile-sweep-3/device.trace.json.gz",
+      "module_event_count": 78
+    },
+    {
+      "profile": "profile-sweep-4",
+      "source_export_sha256": "433246067e7788ac48d8e03af88283095a66affdf862d96bca06bcb5297087b3",
+      "public_trace": "profile-sweep-4/device.trace.json.gz",
+      "module_event_count": 78
+    }
+  ],
+  "public_file_sha256": {
+    "benchmark.json": "4c239ab1e52dcd01b6422586fae9768d6ab5c7c87a77169e5c44584326f0920c",
+    "checkpoint-provenance.json": "aca3ba234d92e6b48299b8874dda442051cbb4d2b1ee3cffb6f87a3a2426bf8e",
+    "environment.freeze.txt": "3648b0725643e193b021241ad41d81e13fad3bc21e40afabba1c72cfea807d43",
+    "model-class.txt": "d20c9bfb058cb76d6929901ef6a1bf2b930ec168ec6d0eecc2358cad1a4deed7",
+    "model-config.json": "90e525d458300a0b36f72b321eda894c6c02c3017a06e104d0bba164df728747",
+    "profile-prefill128/device.trace.json.gz": "92b4fc5c485704838f415656d918e9d2db22cd981d521979f31d8dd7b38b1b64",
+    "profile-short/device.trace.json.gz": "4df0062ae26f2d0dd6117d015ad39cc1814ac10535663ec9fa2c4920289419bc",
+    "profile-sweep-0/device.trace.json.gz": "cf83181820a66c5206ca66e71202cc25748d8dd49bd7b4f1b753a03b613be111",
+    "profile-sweep-1/device.trace.json.gz": "2fdf6e77bf7cb4c7e945f73ec36629ff5064e4c868cec8d0c164b5752e49d866",
+    "profile-sweep-2/device.trace.json.gz": "29c8059ad43636c77deefd1c177450539b60cd42e694b50f546182be853e4e47",
+    "profile-sweep-3/device.trace.json.gz": "a75bb5658ce92396c60bdf1a9a9ad812d7696ccd8da65709a8248dde90906eed",
+    "profile-sweep-4/device.trace.json.gz": "5a395e907314ef36f6322eb85537a455b3e0828f9cb0394c59f1a9039cf72593",
+    "sweep.json": "337e2ba7cfa8e2ce68bdfe48ebeee919e20d3eac6be8f336164c10c8c3176300",
+    "benchmark_runner.py.gz": "bc0c4fc22ce7c79c57ed185ed06f3a483cdbf9a7dd9fed6fc7b27368939707b6"
+  },
+  "executed_source_archives": {
+    "benchmark_runner.py.gz": {
+      "source_filename": "benchmark_runner.py",
+      "uncompressed_sha256": "81d653d239c244538e2113aab9973f2b7aebc6e6e93cd2eb38eaa0c997296671"
+    }
+  },
+  "original_export_sha256": {
+    "sweep.json": "7f72e454d8fe9cb484c068cc793811d22b28e43db145dda2eb467e567cc03463"
+  },
+  "presentation_cleanup": "Project renamed to Argus TPU, descriptive punctuation normalized to commas. Measured values and recorded source bytes are unchanged."
+}

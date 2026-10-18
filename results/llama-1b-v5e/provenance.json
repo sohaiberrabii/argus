@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "recorded_date": "2026-10-02",
+  "model_id": "unsloth/Llama-3.2-1B-Instruct",
+  "checkpoint_revision": "5a8abab4a5d6f164389b1079fb721cfab8d7126c",
+  "checkpoint_safetensors_sha256": "1ff795ff6a07e6a68085d206fb84417da2f083f68391c2843cd2b8ac6df8538f",
+  "historical_runner_sha256": "dc50b1dadbba44f89721b5f066289baf9e60c943f91a202fe833401e89beeccd",
+  "collection": "Historical completed run, baseline was not recollected when assembling this standalone repository.",
+  "runner_status": "Adapted public-stack runner, offline validation only since adaptation.",
+  "trace_projection": "Only TPU:0 XLA Modules events and integer device timer fields retained, process and lane identifiers normalized.",
+  "traces": [
+    {
+      "trial": "profile-short",
+      "source_export_sha256": "9fb92e8bd8c7e9fdf5ed3138764c4766da7387637bc58e99cc785561f6552a17",
+      "public_trace": "profile-short/device.trace.json.gz",
+      "module_event_count": 96
+    },
+    {
+      "trial": "profile-prefill128",
+      "source_export_sha256": "8debc528e7de19347f8b3458e57081497f5e5eafd0380477f543cdd7459f5322",
+      "public_trace": "profile-prefill128/device.trace.json.gz",
+      "module_event_count": 96
+    }
+  ],
+  "omitted_benchmark_fields": [
+    "devices (replaced with generic hardware description)",
+    "environment flags",
+    "historical runner hash (recorded here)"
+  ],
+  "model_config": "Architectural dimensions only, local checkpoint path and unrelated settings omitted.",
+  "public_file_sha256": {
+    "benchmark.json": "4bccffb4d4069ab8e410dcd4c8946ce72c3094d4995bd0779fdaafef61529239",
+    "model-config.json": "1f52c264c6c8b3a10459db4741cca7c198b53fad66c15518d658779e0f2b8265",
+    "profile-prefill128/device.trace.json.gz": "e8727f2788a613cc134c73683f17f221688ae5ae5c5f4d6040f9e479f419c6ab",
+    "profile-short/device.trace.json.gz": "9abe4f24a296ff42c4b57044fa525b47a37690c3f6267ec0e6dd6670026b83f6"
+  },
+  "presentation_cleanup": "Project renamed to Argus TPU, descriptive punctuation normalized to commas. Measured values and recorded source bytes are unchanged."
+}

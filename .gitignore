@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+runs/
+.env
+.env.*
+*.safetensors
+*.bin
+*.xplane.pb

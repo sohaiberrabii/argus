@@ -1,0 +1,4692 @@
+{
+  "completed": true,
+  "records": [
+    {
+      "trial": "timing-short-0",
+      "scenario": "short",
+      "repetition": 0,
+      "elapsed_s": 0.314914208,
+      "prompt_tokens": 6,
+      "generated_tokens": 64,
+      "steps": [
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 6,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            0
+          ],
+          "phase": "prefill",
+          "sequence": 0,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            6
+          ],
+          "phase": "decode",
+          "sequence": 1,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            7
+          ],
+          "phase": "decode",
+          "sequence": 2,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            8
+          ],
+          "phase": "decode",
+          "sequence": 3,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            9
+          ],
+          "phase": "decode",
+          "sequence": 4,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            10
+          ],
+          "phase": "decode",
+          "sequence": 5,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            11
+          ],
+          "phase": "decode",
+          "sequence": 6,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            12
+          ],
+          "phase": "decode",
+          "sequence": 7,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            13
+          ],
+          "phase": "decode",
+          "sequence": 8,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            14
+          ],
+          "phase": "decode",
+          "sequence": 9,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            15
+          ],
+          "phase": "decode",
+          "sequence": 10,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            16
+          ],
+          "phase": "decode",
+          "sequence": 11,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            17
+          ],
+          "phase": "decode",
+          "sequence": 12,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            18
+          ],
+          "phase": "decode",
+          "sequence": 13,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            19
+          ],
+          "phase": "decode",
+          "sequence": 14,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            20
+          ],
+          "phase": "decode",
+          "sequence": 15,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            21
+          ],
+          "phase": "decode",
+          "sequence": 16,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            22
+          ],
+          "phase": "decode",
+          "sequence": 17,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            23
+          ],
+          "phase": "decode",
+          "sequence": 18,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            24
+          ],
+          "phase": "decode",
+          "sequence": 19,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            25
+          ],
+          "phase": "decode",
+          "sequence": 20,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            26
+          ],
+          "phase": "decode",
+          "sequence": 21,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            27
+          ],
+          "phase": "decode",
+          "sequence": 22,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            28
+          ],
+          "phase": "decode",
+          "sequence": 23,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            29
+          ],
+          "phase": "decode",
+          "sequence": 24,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            30
+          ],
+          "phase": "decode",
+          "sequence": 25,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            31
+          ],
+          "phase": "decode",
+          "sequence": 26,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            32
+          ],
+          "phase": "decode",
+          "sequence": 27,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            33
+          ],
+          "phase": "decode",
+          "sequence": 28,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            34
+          ],
+          "phase": "decode",
+          "sequence": 29,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            35
+          ],
+          "phase": "decode",
+          "sequence": 30,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            36
+          ],
+          "phase": "decode",
+          "sequence": 31,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            37
+          ],
+          "phase": "decode",
+          "sequence": 32,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            38
+          ],
+          "phase": "decode",
+          "sequence": 33,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            39
+          ],
+          "phase": "decode",
+          "sequence": 34,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            40
+          ],
+          "phase": "decode",
+          "sequence": 35,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            41
+          ],
+          "phase": "decode",
+          "sequence": 36,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            42
+          ],
+          "phase": "decode",
+          "sequence": 37,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            43
+          ],
+          "phase": "decode",
+          "sequence": 38,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            44
+          ],
+          "phase": "decode",
+          "sequence": 39,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            45
+          ],
+          "phase": "decode",
+          "sequence": 40,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            46
+          ],
+          "phase": "decode",
+          "sequence": 41,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            47
+          ],
+          "phase": "decode",
+          "sequence": 42,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            48
+          ],
+          "phase": "decode",
+          "sequence": 43,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            49
+          ],
+          "phase": "decode",
+          "sequence": 44,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            50
+          ],
+          "phase": "decode",
+          "sequence": 45,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            51
+          ],
+          "phase": "decode",
+          "sequence": 46,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            52
+          ],
+          "phase": "decode",
+          "sequence": 47,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            53
+          ],
+          "phase": "decode",
+          "sequence": 48,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            54
+          ],
+          "phase": "decode",
+          "sequence": 49,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            55
+          ],
+          "phase": "decode",
+          "sequence": 50,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            56
+          ],
+          "phase": "decode",
+          "sequence": 51,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            57
+          ],
+          "phase": "decode",
+          "sequence": 52,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            58
+          ],
+          "phase": "decode",
+          "sequence": 53,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            59
+          ],
+          "phase": "decode",
+          "sequence": 54,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            60
+          ],
+          "phase": "decode",
+          "sequence": 55,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            61
+          ],
+          "phase": "decode",
+          "sequence": 56,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            62
+          ],
+          "phase": "decode",
+          "sequence": 57,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            63
+          ],
+          "phase": "decode",
+          "sequence": 58,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            64
+          ],
+          "phase": "decode",
+          "sequence": 59,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            65
+          ],
+          "phase": "decode",
+          "sequence": 60,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            66
+          ],
+          "phase": "decode",
+          "sequence": 61,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            67
+          ],
+          "phase": "decode",
+          "sequence": 62,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            68
+          ],
+          "phase": "decode",
+          "sequence": 63,
+          "padded_logits_rows": 8
+        }
+      ],
+      "profiled": false
+    },
+    {
+      "trial": "timing-short-1",
+      "scenario": "short",
+      "repetition": 1,
+      "elapsed_s": 0.314657419,
+      "prompt_tokens": 6,
+      "generated_tokens": 64,
+      "steps": [
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 6,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            0
+          ],
+          "phase": "prefill",
+          "sequence": 64,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            6
+          ],
+          "phase": "decode",
+          "sequence": 65,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            7
+          ],
+          "phase": "decode",
+          "sequence": 66,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            8
+          ],
+          "phase": "decode",
+          "sequence": 67,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            9
+          ],
+          "phase": "decode",
+          "sequence": 68,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            10
+          ],
+          "phase": "decode",
+          "sequence": 69,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            11
+          ],
+          "phase": "decode",
+          "sequence": 70,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            12
+          ],
+          "phase": "decode",
+          "sequence": 71,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            13
+          ],
+          "phase": "decode",
+          "sequence": 72,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            14
+          ],
+          "phase": "decode",
+          "sequence": 73,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            15
+          ],
+          "phase": "decode",
+          "sequence": 74,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            16
+          ],
+          "phase": "decode",
+          "sequence": 75,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            17
+          ],
+          "phase": "decode",
+          "sequence": 76,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            18
+          ],
+          "phase": "decode",
+          "sequence": 77,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            19
+          ],
+          "phase": "decode",
+          "sequence": 78,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            20
+          ],
+          "phase": "decode",
+          "sequence": 79,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            21
+          ],
+          "phase": "decode",
+          "sequence": 80,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            22
+          ],
+          "phase": "decode",
+          "sequence": 81,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            23
+          ],
+          "phase": "decode",
+          "sequence": 82,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            24
+          ],
+          "phase": "decode",
+          "sequence": 83,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            25
+          ],
+          "phase": "decode",
+          "sequence": 84,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            26
+          ],
+          "phase": "decode",
+          "sequence": 85,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            27
+          ],
+          "phase": "decode",
+          "sequence": 86,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            28
+          ],
+          "phase": "decode",
+          "sequence": 87,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            29
+          ],
+          "phase": "decode",
+          "sequence": 88,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            30
+          ],
+          "phase": "decode",
+          "sequence": 89,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            31
+          ],
+          "phase": "decode",
+          "sequence": 90,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            32
+          ],
+          "phase": "decode",
+          "sequence": 91,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            33
+          ],
+          "phase": "decode",
+          "sequence": 92,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            34
+          ],
+          "phase": "decode",
+          "sequence": 93,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            35
+          ],
+          "phase": "decode",
+          "sequence": 94,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            36
+          ],
+          "phase": "decode",
+          "sequence": 95,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            37
+          ],
+          "phase": "decode",
+          "sequence": 96,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            38
+          ],
+          "phase": "decode",
+          "sequence": 97,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            39
+          ],
+          "phase": "decode",
+          "sequence": 98,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            40
+          ],
+          "phase": "decode",
+          "sequence": 99,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            41
+          ],
+          "phase": "decode",
+          "sequence": 100,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            42
+          ],
+          "phase": "decode",
+          "sequence": 101,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            43
+          ],
+          "phase": "decode",
+          "sequence": 102,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            44
+          ],
+          "phase": "decode",
+          "sequence": 103,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            45
+          ],
+          "phase": "decode",
+          "sequence": 104,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            46
+          ],
+          "phase": "decode",
+          "sequence": 105,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            47
+          ],
+          "phase": "decode",
+          "sequence": 106,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            48
+          ],
+          "phase": "decode",
+          "sequence": 107,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            49
+          ],
+          "phase": "decode",
+          "sequence": 108,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            50
+          ],
+          "phase": "decode",
+          "sequence": 109,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            51
+          ],
+          "phase": "decode",
+          "sequence": 110,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            52
+          ],
+          "phase": "decode",
+          "sequence": 111,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            53
+          ],
+          "phase": "decode",
+          "sequence": 112,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            54
+          ],
+          "phase": "decode",
+          "sequence": 113,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            55
+          ],
+          "phase": "decode",
+          "sequence": 114,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            56
+          ],
+          "phase": "decode",
+          "sequence": 115,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            57
+          ],
+          "phase": "decode",
+          "sequence": 116,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            58
+          ],
+          "phase": "decode",
+          "sequence": 117,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            59
+          ],
+          "phase": "decode",
+          "sequence": 118,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            60
+          ],
+          "phase": "decode",
+          "sequence": 119,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            61
+          ],
+          "phase": "decode",
+          "sequence": 120,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            62
+          ],
+          "phase": "decode",
+          "sequence": 121,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            63
+          ],
+          "phase": "decode",
+          "sequence": 122,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            64
+          ],
+          "phase": "decode",
+          "sequence": 123,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            65
+          ],
+          "phase": "decode",
+          "sequence": 124,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            66
+          ],
+          "phase": "decode",
+          "sequence": 125,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            67
+          ],
+          "phase": "decode",
+          "sequence": 126,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            68
+          ],
+          "phase": "decode",
+          "sequence": 127,
+          "padded_logits_rows": 8
+        }
+      ],
+      "profiled": false
+    },
+    {
+      "trial": "timing-short-2",
+      "scenario": "short",
+      "repetition": 2,
+      "elapsed_s": 0.315037538,
+      "prompt_tokens": 6,
+      "generated_tokens": 64,
+      "steps": [
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 6,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            0
+          ],
+          "phase": "prefill",
+          "sequence": 128,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            6
+          ],
+          "phase": "decode",
+          "sequence": 129,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            7
+          ],
+          "phase": "decode",
+          "sequence": 130,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            8
+          ],
+          "phase": "decode",
+          "sequence": 131,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            9
+          ],
+          "phase": "decode",
+          "sequence": 132,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            10
+          ],
+          "phase": "decode",
+          "sequence": 133,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            11
+          ],
+          "phase": "decode",
+          "sequence": 134,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            12
+          ],
+          "phase": "decode",
+          "sequence": 135,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            13
+          ],
+          "phase": "decode",
+          "sequence": 136,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            14
+          ],
+          "phase": "decode",
+          "sequence": 137,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            15
+          ],
+          "phase": "decode",
+          "sequence": 138,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            16
+          ],
+          "phase": "decode",
+          "sequence": 139,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            17
+          ],
+          "phase": "decode",
+          "sequence": 140,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            18
+          ],
+          "phase": "decode",
+          "sequence": 141,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            19
+          ],
+          "phase": "decode",
+          "sequence": 142,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            20
+          ],
+          "phase": "decode",
+          "sequence": 143,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            21
+          ],
+          "phase": "decode",
+          "sequence": 144,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            22
+          ],
+          "phase": "decode",
+          "sequence": 145,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            23
+          ],
+          "phase": "decode",
+          "sequence": 146,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            24
+          ],
+          "phase": "decode",
+          "sequence": 147,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            25
+          ],
+          "phase": "decode",
+          "sequence": 148,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            26
+          ],
+          "phase": "decode",
+          "sequence": 149,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            27
+          ],
+          "phase": "decode",
+          "sequence": 150,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            28
+          ],
+          "phase": "decode",
+          "sequence": 151,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            29
+          ],
+          "phase": "decode",
+          "sequence": 152,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            30
+          ],
+          "phase": "decode",
+          "sequence": 153,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            31
+          ],
+          "phase": "decode",
+          "sequence": 154,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            32
+          ],
+          "phase": "decode",
+          "sequence": 155,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            33
+          ],
+          "phase": "decode",
+          "sequence": 156,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            34
+          ],
+          "phase": "decode",
+          "sequence": 157,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            35
+          ],
+          "phase": "decode",
+          "sequence": 158,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            36
+          ],
+          "phase": "decode",
+          "sequence": 159,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            37
+          ],
+          "phase": "decode",
+          "sequence": 160,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            38
+          ],
+          "phase": "decode",
+          "sequence": 161,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            39
+          ],
+          "phase": "decode",
+          "sequence": 162,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            40
+          ],
+          "phase": "decode",
+          "sequence": 163,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            41
+          ],
+          "phase": "decode",
+          "sequence": 164,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            42
+          ],
+          "phase": "decode",
+          "sequence": 165,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            43
+          ],
+          "phase": "decode",
+          "sequence": 166,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            44
+          ],
+          "phase": "decode",
+          "sequence": 167,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            45
+          ],
+          "phase": "decode",
+          "sequence": 168,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            46
+          ],
+          "phase": "decode",
+          "sequence": 169,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            47
+          ],
+          "phase": "decode",
+          "sequence": 170,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            48
+          ],
+          "phase": "decode",
+          "sequence": 171,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            49
+          ],
+          "phase": "decode",
+          "sequence": 172,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            50
+          ],
+          "phase": "decode",
+          "sequence": 173,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            51
+          ],
+          "phase": "decode",
+          "sequence": 174,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            52
+          ],
+          "phase": "decode",
+          "sequence": 175,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            53
+          ],
+          "phase": "decode",
+          "sequence": 176,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            54
+          ],
+          "phase": "decode",
+          "sequence": 177,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            55
+          ],
+          "phase": "decode",
+          "sequence": 178,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            56
+          ],
+          "phase": "decode",
+          "sequence": 179,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            57
+          ],
+          "phase": "decode",
+          "sequence": 180,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            58
+          ],
+          "phase": "decode",
+          "sequence": 181,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            59
+          ],
+          "phase": "decode",
+          "sequence": 182,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            60
+          ],
+          "phase": "decode",
+          "sequence": 183,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            61
+          ],
+          "phase": "decode",
+          "sequence": 184,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            62
+          ],
+          "phase": "decode",
+          "sequence": 185,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            63
+          ],
+          "phase": "decode",
+          "sequence": 186,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            64
+          ],
+          "phase": "decode",
+          "sequence": 187,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            65
+          ],
+          "phase": "decode",
+          "sequence": 188,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            66
+          ],
+          "phase": "decode",
+          "sequence": 189,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            67
+          ],
+          "phase": "decode",
+          "sequence": 190,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-short-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            68
+          ],
+          "phase": "decode",
+          "sequence": 191,
+          "padded_logits_rows": 8
+        }
+      ],
+      "profiled": false
+    },
+    {
+      "trial": "timing-prefill128-0",
+      "scenario": "prefill128",
+      "repetition": 0,
+      "elapsed_s": 0.314449158,
+      "prompt_tokens": 128,
+      "generated_tokens": 64,
+      "steps": [
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 128,
+          "padded_tokens": 128,
+          "computed_tokens": [
+            0
+          ],
+          "phase": "prefill",
+          "sequence": 192,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            128
+          ],
+          "phase": "decode",
+          "sequence": 193,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            129
+          ],
+          "phase": "decode",
+          "sequence": 194,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            130
+          ],
+          "phase": "decode",
+          "sequence": 195,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            131
+          ],
+          "phase": "decode",
+          "sequence": 196,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            132
+          ],
+          "phase": "decode",
+          "sequence": 197,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            133
+          ],
+          "phase": "decode",
+          "sequence": 198,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            134
+          ],
+          "phase": "decode",
+          "sequence": 199,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            135
+          ],
+          "phase": "decode",
+          "sequence": 200,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            136
+          ],
+          "phase": "decode",
+          "sequence": 201,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            137
+          ],
+          "phase": "decode",
+          "sequence": 202,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            138
+          ],
+          "phase": "decode",
+          "sequence": 203,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            139
+          ],
+          "phase": "decode",
+          "sequence": 204,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            140
+          ],
+          "phase": "decode",
+          "sequence": 205,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            141
+          ],
+          "phase": "decode",
+          "sequence": 206,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            142
+          ],
+          "phase": "decode",
+          "sequence": 207,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            143
+          ],
+          "phase": "decode",
+          "sequence": 208,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            144
+          ],
+          "phase": "decode",
+          "sequence": 209,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            145
+          ],
+          "phase": "decode",
+          "sequence": 210,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            146
+          ],
+          "phase": "decode",
+          "sequence": 211,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            147
+          ],
+          "phase": "decode",
+          "sequence": 212,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            148
+          ],
+          "phase": "decode",
+          "sequence": 213,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            149
+          ],
+          "phase": "decode",
+          "sequence": 214,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            150
+          ],
+          "phase": "decode",
+          "sequence": 215,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            151
+          ],
+          "phase": "decode",
+          "sequence": 216,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            152
+          ],
+          "phase": "decode",
+          "sequence": 217,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            153
+          ],
+          "phase": "decode",
+          "sequence": 218,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            154
+          ],
+          "phase": "decode",
+          "sequence": 219,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            155
+          ],
+          "phase": "decode",
+          "sequence": 220,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            156
+          ],
+          "phase": "decode",
+          "sequence": 221,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            157
+          ],
+          "phase": "decode",
+          "sequence": 222,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            158
+          ],
+          "phase": "decode",
+          "sequence": 223,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            159
+          ],
+          "phase": "decode",
+          "sequence": 224,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            160
+          ],
+          "phase": "decode",
+          "sequence": 225,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            161
+          ],
+          "phase": "decode",
+          "sequence": 226,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            162
+          ],
+          "phase": "decode",
+          "sequence": 227,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            163
+          ],
+          "phase": "decode",
+          "sequence": 228,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            164
+          ],
+          "phase": "decode",
+          "sequence": 229,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            165
+          ],
+          "phase": "decode",
+          "sequence": 230,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            166
+          ],
+          "phase": "decode",
+          "sequence": 231,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            167
+          ],
+          "phase": "decode",
+          "sequence": 232,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            168
+          ],
+          "phase": "decode",
+          "sequence": 233,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            169
+          ],
+          "phase": "decode",
+          "sequence": 234,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            170
+          ],
+          "phase": "decode",
+          "sequence": 235,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            171
+          ],
+          "phase": "decode",
+          "sequence": 236,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            172
+          ],
+          "phase": "decode",
+          "sequence": 237,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            173
+          ],
+          "phase": "decode",
+          "sequence": 238,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            174
+          ],
+          "phase": "decode",
+          "sequence": 239,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            175
+          ],
+          "phase": "decode",
+          "sequence": 240,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            176
+          ],
+          "phase": "decode",
+          "sequence": 241,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            177
+          ],
+          "phase": "decode",
+          "sequence": 242,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            178
+          ],
+          "phase": "decode",
+          "sequence": 243,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            179
+          ],
+          "phase": "decode",
+          "sequence": 244,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            180
+          ],
+          "phase": "decode",
+          "sequence": 245,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            181
+          ],
+          "phase": "decode",
+          "sequence": 246,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            182
+          ],
+          "phase": "decode",
+          "sequence": 247,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            183
+          ],
+          "phase": "decode",
+          "sequence": 248,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            184
+          ],
+          "phase": "decode",
+          "sequence": 249,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            185
+          ],
+          "phase": "decode",
+          "sequence": 250,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            186
+          ],
+          "phase": "decode",
+          "sequence": 251,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            187
+          ],
+          "phase": "decode",
+          "sequence": 252,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            188
+          ],
+          "phase": "decode",
+          "sequence": 253,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            189
+          ],
+          "phase": "decode",
+          "sequence": 254,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-0",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            190
+          ],
+          "phase": "decode",
+          "sequence": 255,
+          "padded_logits_rows": 8
+        }
+      ],
+      "profiled": false
+    },
+    {
+      "trial": "timing-prefill128-1",
+      "scenario": "prefill128",
+      "repetition": 1,
+      "elapsed_s": 0.314175839,
+      "prompt_tokens": 128,
+      "generated_tokens": 64,
+      "steps": [
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 128,
+          "padded_tokens": 128,
+          "computed_tokens": [
+            0
+          ],
+          "phase": "prefill",
+          "sequence": 256,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            128
+          ],
+          "phase": "decode",
+          "sequence": 257,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            129
+          ],
+          "phase": "decode",
+          "sequence": 258,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            130
+          ],
+          "phase": "decode",
+          "sequence": 259,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            131
+          ],
+          "phase": "decode",
+          "sequence": 260,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            132
+          ],
+          "phase": "decode",
+          "sequence": 261,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            133
+          ],
+          "phase": "decode",
+          "sequence": 262,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            134
+          ],
+          "phase": "decode",
+          "sequence": 263,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            135
+          ],
+          "phase": "decode",
+          "sequence": 264,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            136
+          ],
+          "phase": "decode",
+          "sequence": 265,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            137
+          ],
+          "phase": "decode",
+          "sequence": 266,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            138
+          ],
+          "phase": "decode",
+          "sequence": 267,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            139
+          ],
+          "phase": "decode",
+          "sequence": 268,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            140
+          ],
+          "phase": "decode",
+          "sequence": 269,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            141
+          ],
+          "phase": "decode",
+          "sequence": 270,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            142
+          ],
+          "phase": "decode",
+          "sequence": 271,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            143
+          ],
+          "phase": "decode",
+          "sequence": 272,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            144
+          ],
+          "phase": "decode",
+          "sequence": 273,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            145
+          ],
+          "phase": "decode",
+          "sequence": 274,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            146
+          ],
+          "phase": "decode",
+          "sequence": 275,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            147
+          ],
+          "phase": "decode",
+          "sequence": 276,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            148
+          ],
+          "phase": "decode",
+          "sequence": 277,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            149
+          ],
+          "phase": "decode",
+          "sequence": 278,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            150
+          ],
+          "phase": "decode",
+          "sequence": 279,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            151
+          ],
+          "phase": "decode",
+          "sequence": 280,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            152
+          ],
+          "phase": "decode",
+          "sequence": 281,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            153
+          ],
+          "phase": "decode",
+          "sequence": 282,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            154
+          ],
+          "phase": "decode",
+          "sequence": 283,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            155
+          ],
+          "phase": "decode",
+          "sequence": 284,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            156
+          ],
+          "phase": "decode",
+          "sequence": 285,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            157
+          ],
+          "phase": "decode",
+          "sequence": 286,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            158
+          ],
+          "phase": "decode",
+          "sequence": 287,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            159
+          ],
+          "phase": "decode",
+          "sequence": 288,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            160
+          ],
+          "phase": "decode",
+          "sequence": 289,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            161
+          ],
+          "phase": "decode",
+          "sequence": 290,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            162
+          ],
+          "phase": "decode",
+          "sequence": 291,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            163
+          ],
+          "phase": "decode",
+          "sequence": 292,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            164
+          ],
+          "phase": "decode",
+          "sequence": 293,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            165
+          ],
+          "phase": "decode",
+          "sequence": 294,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            166
+          ],
+          "phase": "decode",
+          "sequence": 295,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            167
+          ],
+          "phase": "decode",
+          "sequence": 296,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            168
+          ],
+          "phase": "decode",
+          "sequence": 297,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            169
+          ],
+          "phase": "decode",
+          "sequence": 298,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            170
+          ],
+          "phase": "decode",
+          "sequence": 299,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            171
+          ],
+          "phase": "decode",
+          "sequence": 300,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            172
+          ],
+          "phase": "decode",
+          "sequence": 301,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            173
+          ],
+          "phase": "decode",
+          "sequence": 302,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            174
+          ],
+          "phase": "decode",
+          "sequence": 303,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            175
+          ],
+          "phase": "decode",
+          "sequence": 304,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            176
+          ],
+          "phase": "decode",
+          "sequence": 305,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            177
+          ],
+          "phase": "decode",
+          "sequence": 306,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            178
+          ],
+          "phase": "decode",
+          "sequence": 307,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            179
+          ],
+          "phase": "decode",
+          "sequence": 308,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            180
+          ],
+          "phase": "decode",
+          "sequence": 309,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            181
+          ],
+          "phase": "decode",
+          "sequence": 310,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            182
+          ],
+          "phase": "decode",
+          "sequence": 311,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            183
+          ],
+          "phase": "decode",
+          "sequence": 312,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            184
+          ],
+          "phase": "decode",
+          "sequence": 313,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            185
+          ],
+          "phase": "decode",
+          "sequence": 314,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            186
+          ],
+          "phase": "decode",
+          "sequence": 315,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            187
+          ],
+          "phase": "decode",
+          "sequence": 316,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            188
+          ],
+          "phase": "decode",
+          "sequence": 317,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            189
+          ],
+          "phase": "decode",
+          "sequence": 318,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-1",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            190
+          ],
+          "phase": "decode",
+          "sequence": 319,
+          "padded_logits_rows": 8
+        }
+      ],
+      "profiled": false
+    },
+    {
+      "trial": "timing-prefill128-2",
+      "scenario": "prefill128",
+      "repetition": 2,
+      "elapsed_s": 0.313925129,
+      "prompt_tokens": 128,
+      "generated_tokens": 64,
+      "steps": [
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 128,
+          "padded_tokens": 128,
+          "computed_tokens": [
+            0
+          ],
+          "phase": "prefill",
+          "sequence": 320,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            128
+          ],
+          "phase": "decode",
+          "sequence": 321,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            129
+          ],
+          "phase": "decode",
+          "sequence": 322,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            130
+          ],
+          "phase": "decode",
+          "sequence": 323,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            131
+          ],
+          "phase": "decode",
+          "sequence": 324,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            132
+          ],
+          "phase": "decode",
+          "sequence": 325,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            133
+          ],
+          "phase": "decode",
+          "sequence": 326,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            134
+          ],
+          "phase": "decode",
+          "sequence": 327,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            135
+          ],
+          "phase": "decode",
+          "sequence": 328,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            136
+          ],
+          "phase": "decode",
+          "sequence": 329,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            137
+          ],
+          "phase": "decode",
+          "sequence": 330,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            138
+          ],
+          "phase": "decode",
+          "sequence": 331,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            139
+          ],
+          "phase": "decode",
+          "sequence": 332,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            140
+          ],
+          "phase": "decode",
+          "sequence": 333,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            141
+          ],
+          "phase": "decode",
+          "sequence": 334,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            142
+          ],
+          "phase": "decode",
+          "sequence": 335,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            143
+          ],
+          "phase": "decode",
+          "sequence": 336,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            144
+          ],
+          "phase": "decode",
+          "sequence": 337,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            145
+          ],
+          "phase": "decode",
+          "sequence": 338,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            146
+          ],
+          "phase": "decode",
+          "sequence": 339,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            147
+          ],
+          "phase": "decode",
+          "sequence": 340,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            148
+          ],
+          "phase": "decode",
+          "sequence": 341,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            149
+          ],
+          "phase": "decode",
+          "sequence": 342,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            150
+          ],
+          "phase": "decode",
+          "sequence": 343,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            151
+          ],
+          "phase": "decode",
+          "sequence": 344,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            152
+          ],
+          "phase": "decode",
+          "sequence": 345,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            153
+          ],
+          "phase": "decode",
+          "sequence": 346,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            154
+          ],
+          "phase": "decode",
+          "sequence": 347,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            155
+          ],
+          "phase": "decode",
+          "sequence": 348,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            156
+          ],
+          "phase": "decode",
+          "sequence": 349,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            157
+          ],
+          "phase": "decode",
+          "sequence": 350,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            158
+          ],
+          "phase": "decode",
+          "sequence": 351,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            159
+          ],
+          "phase": "decode",
+          "sequence": 352,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            160
+          ],
+          "phase": "decode",
+          "sequence": 353,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            161
+          ],
+          "phase": "decode",
+          "sequence": 354,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            162
+          ],
+          "phase": "decode",
+          "sequence": 355,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            163
+          ],
+          "phase": "decode",
+          "sequence": 356,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            164
+          ],
+          "phase": "decode",
+          "sequence": 357,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            165
+          ],
+          "phase": "decode",
+          "sequence": 358,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            166
+          ],
+          "phase": "decode",
+          "sequence": 359,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            167
+          ],
+          "phase": "decode",
+          "sequence": 360,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            168
+          ],
+          "phase": "decode",
+          "sequence": 361,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            169
+          ],
+          "phase": "decode",
+          "sequence": 362,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            170
+          ],
+          "phase": "decode",
+          "sequence": 363,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            171
+          ],
+          "phase": "decode",
+          "sequence": 364,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            172
+          ],
+          "phase": "decode",
+          "sequence": 365,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            173
+          ],
+          "phase": "decode",
+          "sequence": 366,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            174
+          ],
+          "phase": "decode",
+          "sequence": 367,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            175
+          ],
+          "phase": "decode",
+          "sequence": 368,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            176
+          ],
+          "phase": "decode",
+          "sequence": 369,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            177
+          ],
+          "phase": "decode",
+          "sequence": 370,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            178
+          ],
+          "phase": "decode",
+          "sequence": 371,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            179
+          ],
+          "phase": "decode",
+          "sequence": 372,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            180
+          ],
+          "phase": "decode",
+          "sequence": 373,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            181
+          ],
+          "phase": "decode",
+          "sequence": 374,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            182
+          ],
+          "phase": "decode",
+          "sequence": 375,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            183
+          ],
+          "phase": "decode",
+          "sequence": 376,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            184
+          ],
+          "phase": "decode",
+          "sequence": 377,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            185
+          ],
+          "phase": "decode",
+          "sequence": 378,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            186
+          ],
+          "phase": "decode",
+          "sequence": 379,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            187
+          ],
+          "phase": "decode",
+          "sequence": 380,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            188
+          ],
+          "phase": "decode",
+          "sequence": 381,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            189
+          ],
+          "phase": "decode",
+          "sequence": 382,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "timing-prefill128-2",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            190
+          ],
+          "phase": "decode",
+          "sequence": 383,
+          "padded_logits_rows": 8
+        }
+      ],
+      "profiled": false
+    },
+    {
+      "trial": "profile-short",
+      "scenario": "short",
+      "prompt_tokens": 6,
+      "generated_tokens": 16,
+      "steps": [
+        {
+          "trial": "profile-short",
+          "active_tokens": 6,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            0
+          ],
+          "phase": "prefill",
+          "sequence": 384,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            6
+          ],
+          "phase": "decode",
+          "sequence": 385,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            7
+          ],
+          "phase": "decode",
+          "sequence": 386,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            8
+          ],
+          "phase": "decode",
+          "sequence": 387,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            9
+          ],
+          "phase": "decode",
+          "sequence": 388,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            10
+          ],
+          "phase": "decode",
+          "sequence": 389,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            11
+          ],
+          "phase": "decode",
+          "sequence": 390,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            12
+          ],
+          "phase": "decode",
+          "sequence": 391,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            13
+          ],
+          "phase": "decode",
+          "sequence": 392,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            14
+          ],
+          "phase": "decode",
+          "sequence": 393,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            15
+          ],
+          "phase": "decode",
+          "sequence": 394,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            16
+          ],
+          "phase": "decode",
+          "sequence": 395,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            17
+          ],
+          "phase": "decode",
+          "sequence": 396,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            18
+          ],
+          "phase": "decode",
+          "sequence": 397,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            19
+          ],
+          "phase": "decode",
+          "sequence": 398,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-short",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            20
+          ],
+          "phase": "decode",
+          "sequence": 399,
+          "padded_logits_rows": 8
+        }
+      ],
+      "profiled": true
+    },
+    {
+      "trial": "profile-prefill128",
+      "scenario": "prefill128",
+      "prompt_tokens": 128,
+      "generated_tokens": 16,
+      "steps": [
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 128,
+          "padded_tokens": 128,
+          "computed_tokens": [
+            0
+          ],
+          "phase": "prefill",
+          "sequence": 400,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            128
+          ],
+          "phase": "decode",
+          "sequence": 401,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            129
+          ],
+          "phase": "decode",
+          "sequence": 402,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            130
+          ],
+          "phase": "decode",
+          "sequence": 403,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            131
+          ],
+          "phase": "decode",
+          "sequence": 404,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            132
+          ],
+          "phase": "decode",
+          "sequence": 405,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            133
+          ],
+          "phase": "decode",
+          "sequence": 406,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            134
+          ],
+          "phase": "decode",
+          "sequence": 407,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            135
+          ],
+          "phase": "decode",
+          "sequence": 408,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            136
+          ],
+          "phase": "decode",
+          "sequence": 409,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            137
+          ],
+          "phase": "decode",
+          "sequence": 410,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            138
+          ],
+          "phase": "decode",
+          "sequence": 411,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            139
+          ],
+          "phase": "decode",
+          "sequence": 412,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            140
+          ],
+          "phase": "decode",
+          "sequence": 413,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            141
+          ],
+          "phase": "decode",
+          "sequence": 414,
+          "padded_logits_rows": 8
+        },
+        {
+          "trial": "profile-prefill128",
+          "active_tokens": 1,
+          "padded_tokens": 16,
+          "computed_tokens": [
+            142
+          ],
+          "phase": "decode",
+          "sequence": 415,
+          "padded_logits_rows": 8
+        }
+      ],
+      "profiled": true
+    }
+  ],
+  "peak_bf16_flops_per_s": 197000000000000.0,
+  "peak_source": "https://docs.cloud.google.com/tpu/docs/v5e",
+  "versions": {
+    "vllm-tpu": "0.30.0",
+    "tpu-inference": "0.30.0",
+    "jax": "0.11.0",
+    "jaxlib": "0.11.0",
+    "libtpu": "0.0.44"
+  },
+  "hardware": {
+    "accelerator": "Google Cloud TPU v5e",
+    "chips": 1,
+    "precision": "bfloat16"
+  },
+  "runner_sha256": "81d653d239c244538e2113aab9973f2b7aebc6e6e93cd2eb38eaa0c997296671",
+  "recorded_utc": "2026-10-18T11:45:30.213038+00:00",
+  "settings": {
+    "max_model_len": 256,
+    "max_num_seqs": 1,
+    "max_num_batched_tokens": 128,
+    "tensor_parallel_size": 1,
+    "prefix_caching": false,
+    "async_scheduling": false,
+    "sampling_temperature": 0,
+    "ignore_eos": true,
+    "seed": 17
+  }
+}
